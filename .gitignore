@@ -1,12 +1,18 @@
-CMakeLists.txt.user
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
-CMakeUserPresets.json
+# Python cache directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS Finder metadata
+.DS_Store
+
+# Other macOS metadata
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Folder config file
+Desktop.ini
