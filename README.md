@@ -22,7 +22,7 @@ cd toy_robot_coding_challenge
 ## Usage
 Run the main function to start the robot console application:
 ```bash
-python main.py 
+python app/main.py 
 ``` 
 Enter commands to control the robot. Available commands include:
 
